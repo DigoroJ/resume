@@ -10,7 +10,7 @@
     background: #000;
   }
   a {
-    text-decoration: none;
+    text-decoration:fuchsia;
     color: inherit;
     font-size: 29px;
   }
@@ -28,7 +28,7 @@
     -webkit-text-fill-color: transparent;
     background-repeat: no-repeat;
     background-size: 80%;
-    animation: shine 7s linear infinite;
+    animation: shine 10s linear infinite;
     position: relative;
   }
   
